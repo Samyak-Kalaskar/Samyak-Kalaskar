@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samyak-Kalaskar</h1>
 <h3 align="center">A passionate devops developer from India</h3>
 
-- 🔭 I’m currently working on **Collage Management System**
+- 🔭 I’m currently working on **E-Commerce Application**
 
 - 🌱 I’m currently learning **react Native**
 
